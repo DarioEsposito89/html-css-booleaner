@@ -12,3 +12,26 @@
     position: absolute;
     top: 50px;
 }
+
+.titoli{;
+    line-height: 10px; 
+}
+
+
+h1{
+    margin-top: 10px;
+    
+}
+
+h2{
+    color: #818181;
+}
+
+h3{
+    color: #818181;
+}
+
+.autore{
+    color: #4cb9e9;
+}
+
