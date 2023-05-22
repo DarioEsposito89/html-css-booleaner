@@ -1,3 +1,5 @@
+/* Testata e logo */
+
 .testata{
     height: 100px;
     background-color: #4ea0ff;
@@ -12,6 +14,8 @@
     position: absolute;
     top: 50px;
 }
+
+/* Titoli iniziali articolo */
 
 .titoli{
     line-height: 10px; 
@@ -35,6 +39,7 @@ h3{
     color: #4cb9e9;
 }
 
+/* Tabella colorata */
 .head-row{
     background: #4cb9e9;
     color: white;
@@ -52,6 +57,8 @@ h3{
     background-color: #b1e5f2;
 }
 
+
+/* Sottotitolo finale con due immagini */
 .suggerimenti{
     color: #818181 ;
 }
