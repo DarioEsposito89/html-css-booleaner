@@ -1,0 +1,14 @@
+.testata{
+    height: 100px;
+    background-color: #4ea0ff;
+    background-image: url(../img/pattern.png);
+    background-size: 400px;
+    padding: 10px;
+    position: relative;
+}
+
+#logo-booleaner{
+    height: 40px;
+    position: absolute;
+    top: 50px;
+}
